@@ -1,2 +1,2 @@
 # LAB_THREE_JAVA
-OOP with java
+OOP with java(inhertance and method overloading)
